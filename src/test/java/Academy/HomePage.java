@@ -60,11 +60,11 @@ public class HomePage extends base{
 		System.out.println("hello");
 	}
 	
-	@Test
-	public void k2() {
-		System.out.println("hello");
-	}
 	
+	@Test
+	public void k3() {
+		System.out.println("bye");
+	}
 	
 	@AfterMethod
 	public void teardown()

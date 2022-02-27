@@ -51,6 +51,11 @@ public class validateTitle extends base{
 		}
 	
 	
+	@Test
+	public void k4() {
+		System.out.println("bye2");
+	}
+	
 	@AfterMethod
 	public void teardown()
 	{
