@@ -60,6 +60,12 @@ public class HomePage extends base{
 		System.out.println("hello world guys");
 	}
 	
+	@Test
+	public void sample1() {
+		
+		System.out.println("hello world guys from Altroz");
+	}
+	
 	@AfterMethod
 	public void teardown()
 	{
