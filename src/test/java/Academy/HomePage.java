@@ -60,22 +60,7 @@ public class HomePage extends base{
 		System.out.println("hello world guys");
 	}
 	
-	@Test
-	public void sample1() {
-		
-		System.out.println("hello world guys from Altroz");
-	}
-	@Test
-	public void sample2323() {
-		
-		System.out.println("Branch Altroz");
-	}
 	
-	@Test
-	public void sample232223() {
-		
-		System.out.println("Branch Altroz 2");
-	}
 	
 	@AfterMethod
 	public void teardown()
