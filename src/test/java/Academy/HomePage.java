@@ -55,7 +55,15 @@ public class HomePage extends base{
 		}
 
 	
+	@Test
+	public void k1() {
+		System.out.println("hello");
+	}
 	
+	@Test
+	public void k2() {
+		System.out.println("hello");
+	}
 	
 	
 	@AfterMethod
@@ -66,6 +74,8 @@ public class HomePage extends base{
 	
 		
 	}
+	
+	
 
 	
 	@DataProvider
