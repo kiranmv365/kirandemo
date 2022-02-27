@@ -54,11 +54,7 @@ public class HomePage extends base{
 		
 		}
 
-	@Test
-	public void sample() {
-		
-		System.out.println("hello world guys");
-	}
+	
 	
 	
 	

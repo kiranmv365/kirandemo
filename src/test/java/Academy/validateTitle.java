@@ -49,11 +49,7 @@ public class validateTitle extends base{
 	
 		
 		}
-	@Test
-	public void sample() {
-		
-		System.out.println("hello world guys");
-	}
+	
 	
 	@AfterMethod
 	public void teardown()
