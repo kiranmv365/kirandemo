@@ -71,6 +71,12 @@ public class HomePage extends base{
 		System.out.println("Branch Altroz");
 	}
 	
+	@Test
+	public void sample232223() {
+		
+		System.out.println("Branch Altroz 2");
+	}
+	
 	@AfterMethod
 	public void teardown()
 	{
